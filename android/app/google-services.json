@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123251792043",
+    "project_id": "flash-chat-22524",
+    "storage_bucket": "flash-chat-22524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123251792043:android:0c91487e1c198d186c7fee",
+        "android_client_info": {
+          "package_name": "nrw.dialogplus.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123251792043-0259vj717it0lgp6pp2r05refffhmd4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSICrSseZ-oh9vn-lqA9zE2VrPwo0MHF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123251792043-0259vj717it0lgp6pp2r05refffhmd4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
